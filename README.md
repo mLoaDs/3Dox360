@@ -1,5 +1,5 @@
 # 3Dox360
- 3Dox is a 3DO emulator for Xbox that's based on 4DO/Freedo.
+ 3Dox is a 3DO emulator for Xbox360 that's based on 4DO/Freedo.
 
 
 ![3DO_Logo svg3](https://github.com/user-attachments/assets/84625650-9855-41fb-9935-8b336aef645f)

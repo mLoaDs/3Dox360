@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{1f7d1d80-fdb2-4c42-bfe9-204d4659f7df}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EmulationHelper.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="freeDoFuncs.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="DiscGameSource.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleInput.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="iosupport.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSourceBase.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="FileGameSource.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3dox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="GameConsole.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ScalingEffect.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

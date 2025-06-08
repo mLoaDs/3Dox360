@@ -45,41 +45,44 @@ Pre-Release Info/Issues
 - Pixel shaders are working but you cant select one. For now you need go into the shaders folder and rename/copy the shader you want to use and called it 'default.fx'. I've included CRT, HQ4x shaders to use.
 
 
-Installation Notes
+Installation
 ==================
-
-- Place 3DO bios file inside bios folder. File MUST be called bios.rom
-- Roms go in the Roms folder. Files must be .ISO or .BIN otherwise they wont work.
-- Run 3doLauncher to start.
-- Press 'A' to launch the rom. While in game - right thumbstick to quit back to launcher.
+> [!NOTE]
+> Place 3DO bios file inside bios folder. File MUST be called bios.rom
+> 
+> Roms go in the Roms folder. Files must be .ISO or .BIN otherwise they wont work.
+> 
+> Run 3doLauncher to start.
+> 
+> Press 'A' to launch the rom. While in game - right thumbstick to quit back to launcher.
 
 
 Controller Mapping
 ==================
-
- Game Select Screen:
- 
-  A: Launches the game.
-	
- In-Game:
- 
-  B = A
-  
-  A = B
-  
-  B = C
-  
-  Start = P
-  
-  Back = X
-  
-  Left Trigger = Left Button
-  
-  Right Trigger = Right Button
-  
-  DPad = DPad
-  
-  Right Thumb Stick Click = Exit to launcher
+> [!TIP]
+> Game Select Screen:
+>
+> A: Launches the game.
+> 
+> In-Game:
+> 
+> B = A
+>  
+> A = B
+>  
+> B = C
+>  
+> Start = P
+>  
+> Back = X
+>  
+> Left Trigger = Left Button
+>  
+> Right Trigger = Right Button
+>  
+> DPad = DPad
+>  
+> Right Thumb Stick Click = Exit to launcher
 
 
 Credits and Thanks
